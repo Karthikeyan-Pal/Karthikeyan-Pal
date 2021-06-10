@@ -1,4 +1,4 @@
-### Hi there ![image](https://user-images.githubusercontent.com/59625971/121566513-35a99f00-c9e3-11eb-9711-49c41a3ed8fe.png)
+### Hi there! 👋
 
 I am Karthik. Recently graduated with Masters of Science in Industrial Engineering degree. 
 
