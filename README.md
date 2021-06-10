@@ -1,6 +1,6 @@
-### Hi there :wave:
+### Hi there 👋
 
-I am Karthikeyan Palanikumar recently graduated with Masters of Science in Industrial Engineering degree. This repository is meant to showcase my Data Analytics & Data Science projects. 
+I am Karthik. Recently graduated with Masters of Science in Industrial Engineering degree. 
 
 My professional summary:
 
