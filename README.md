@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/59625971/121566513-35a99f00-c9e3-11eb-9711-49c41a3ed8fe.png)
 
 I am Karthik. Recently graduated with Masters of Science in Industrial Engineering degree. 
 
@@ -19,3 +19,19 @@ My professional summary:
 • Good knowledge of writing SQL queries for various RDBMS such as SQL Server and MySQL to handle structured unstructured data.
 
 • Good working knowledge of development environment like Git.
+
+My key skills:
+
+Methodologies: SDLC, Agile, Waterfall
+
+Programming Language: Python, R, SQL, MATLAB
+
+IDEs: Jupyter Notebook, PyCharm
+
+Python Packages: ggplot2, NumPy, Pandas, Matplotlib, SciPy, scikit-learn
+
+Visualization Tools: Tableau, Power BI
+
+Database: SQL Server, MS Access, MySQL
+
+Other Tools: Git, MS Office, Advance Excel, SASS
