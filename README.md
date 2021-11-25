@@ -2,6 +2,8 @@
 
 I am Karthik.  
 
+You can reach me at Karthikp.consultant@gmail.com
+
 My professional summary:
 
 •	Around 2.5 years of experience as a Data Analyst in accepts the responsibilities to support both external clients and internal management.
