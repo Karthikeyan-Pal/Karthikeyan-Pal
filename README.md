@@ -1,47 +1,98 @@
-### Hi there! 👋
+# Hi, I'm Karthik 👋
 
-I am Karthik.  
+📍 Dallas, TX  
+📧 karthik.preeni@gmail.com  
+🔗 https://linkedin.com/in/karthikeyanpalanikumar  
 
-You can reach me at Karthikp.consultant@gmail.com
+I am a Product Analyst with a strong focus on Data Engineering and Analytics Engineering. I build scalable data pipelines, design dimensional data models, and deliver analytics platforms using modern cloud and data stack technologies.
 
-My professional summary:
+## 🚀 About Me
 
-•	Around 2.5 years of experience as a Data Analyst in accepts the responsibilities to support both external clients and internal management.
+- 5+ years of experience in data analytics, BI, and data engineering workflows  
+- Strong hands-on experience with Snowflake, dbt, AWS, and modern ELT pipelines  
+- Experienced in building scalable data pipelines, automating ETL workflows, and designing data models  
+- Delivered high-impact dashboards and analytics solutions used by product and business teams   
 
-•	Proven knowledge of Software Development Life Cycle (SDLC) methodologies and working in Agile and Waterfall methodologies. 
+## 🛠️ Technical Skills
 
-•	Adept skills in Data Analytics and Statistical Analysis Applications using R, Python, and MATLAB.
+### Data Engineering & Analytics
+- Snowflake, dbt, ETL/ELT, Data Warehousing  
+- Data Modeling (Star Schema, Dimensional Modeling)  
+- CDC, Data Pipelines, Process Automation  
+- Data Quality, Testing, and Observability  
 
-•	Capable in a Python based environment, along with data analytics and Excel data extracts and Worked on several Python and R packages like ggplot2, NumPy, Pandas, Matplotlib, SciPy, and Scikit-Learn.
+### Cloud & Big Data
+- AWS (S3, Lambda, Glue, Kinesis, DMS)  
+- Azure Data Factory, Azure Synapse  
+- Databricks  
 
-•	Working knowledge of Power BI and Tableau Desktop reports.
+### Programming & Querying
+- Python  
+- SQL (T-SQL, PL/pgSQL)  
 
-•	Proficiency in Tabular Modeling, Multi-Dimensional Cubes and DAX
+### BI & Visualization
+- Power BI (DAX, Dataflows, Incremental Refresh)  
+- Tableau  
+- Streamlit  
 
-•	Good knowledge of writing SQL queries for various RDBMS such as SQL Server, MySQL and PostgresSQL to handle structured unstructured data.
+### Databases
+- SQL Server (SSIS, SSAS)  
+- PostgreSQL  
+- MySQL  
 
-•	Good working knowledge of IDE like Jupyter Lab & RStudio.
+### Tools & Platforms
+- GitHub, GitLab  
+- Azure DevOps, JIRA, Confluence  
+- Jupyter Notebook, VS Code  
 
-My key skills:
+## 💼 Work Experience
 
-Expertise: 
-Data Analysis, Data Visualization, Data Modeling, Statistical Analysis, ETL, Text Analytics, Exploratory Analysis, Descriptive Analysis.
-Methodologies: 
-SDLC, Agile, Waterfall
+### Product Analyst (Data Engineering Focus)  
+**OneSource Virtual, TX | Feb 2022 – Present**
 
-Programming Language: 
-Python, R, SQL 
+- Built 15+ Power BI dashboards, improving accessibility for product teams and reducing manual reporting by 80%  
+- Developed ETL pipelines using Azure Data Factory and SQL Server to process 500K+ records daily  
+- Optimized data pipelines, reducing query execution time by 40%  
+- Processed millions of tax records using MySQL and Power BI with incremental refresh  
+- Built campaign analytics pipelines using Python APIs (HubSpot, Mailchimp) processing 2.7M+ records  
 
-IDEs: 
-Jupyter Notebook, PyCharm, RStudio
+### Business Intelligence Consultant  
+**Microsoft, TX | Oct 2022 – Mar 2023**
 
-Python Packages: 
-ggplot2, NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, Keras, Seaborn
-Visualization Tools: 
-Tableau, Power BI
+- Optimized Power BI dashboards, reducing refresh time by 50%  
+- Improved data models and DAX logic for performance and scalability  
+- Streamlined ETL pipelines using Azure Data Factory  
+- Contributed to CI/CD and Agile workflows using Azure DevOps  
 
-Database: 
-SQL Server, MS Access, MySQL, PostgresSQL
+### Data Analyst  
+**Samsung Electronics America, TX | Jul 2021 – Jan 2022**
 
-Other Tools: 
-Git, MS Office, Advanced Excel
+- Automated reporting workflows using Python and SQL, reducing manual effort by 85%  
+- Built anomaly detection systems auditing 100+ reports weekly  
+- Ensured 99% data accuracy across multi-region datasets  
+
+## 📊 Additional Projects
+
+### Real-Time Streaming Data Pipeline (AWS + Snowflake)
+- Built event-driven pipeline using API Gateway, Lambda, Kinesis, and Snowpipe  
+- Enabled low-latency ingestion and real-time analytics  
+
+### ELT Pipeline (AWS Glue + dbt + Snowflake)
+- Built automated ELT pipeline with S3 ingestion and Snowflake modeling  
+- Designed dbt models with testing and documentation  
+
+### SCD Pipelines (Snowflake + dbt)
+- Implemented SCD Type 1 using Streams, Tasks, and stored procedures  
+- Implemented SCD Type 2 using dbt snapshots and versioned modeling  
+
+### Data Ingestion Pipeline (AWS DMS + CDC)
+- Built full load + CDC pipeline from RDS to S3  
+- Ensured continuous replication and change tracking  
+
+## 🎯 Current Focus
+
+- Advanced Data Engineering  
+- Analytics Engineering (dbt + Snowflake)  
+- Scalable Data Pipelines  
+- Data Platform Design  
+- Building production-ready data systems  
